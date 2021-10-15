@@ -45,6 +45,6 @@ Here is a classic segmentation approach using neural networks with the Unet arch
 
 This notebook shows a comparison of the results of the two approaches and their combination.
 
-5. __inference.py__
+5. __main.py__
 
 This script performs inference on the test set using the saved model weights.

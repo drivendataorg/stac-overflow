@@ -24,7 +24,7 @@ You can see other notes about the solution in the jupyter-notebooks.
 
 ## Solution
 
-This solution assumes that training features are saved in the directory `../training_data/train_features`, training labels are saved in the directory `../training_data/train_labels`, and the metadata is saved to `../training_data/flood-training-metadata.csv".
+This solution assumes that training features are saved in the directory `../training_data/train_features`, training labels are saved in the directory `../training_data/train_labels`, and the metadata is saved to `../training_data/flood-training-metadata.csv`.
 
 1. __load_external_data.ipynb__ 
 

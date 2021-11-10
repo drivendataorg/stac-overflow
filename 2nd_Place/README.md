@@ -19,7 +19,7 @@ It was a way for me to test my model before submitting it to the Drivendata plat
 
 ### Execution steps for training a new model
 
-1. Add training data in the folder data/raw/train_features, this training data should be in the same format as the one given during the competition:
+1. Add training data in the folder `data/raw/train_features`, this training data should be in the same format as the one given during the competition:
 
 ```
     |-- data

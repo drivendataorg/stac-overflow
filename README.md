@@ -1,7 +1,7 @@
 [<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' width='600'>](https://www.drivendata.org/)
 <br><br>
 
-![Banner Image](https://drivendata-public-assets.s3.amazonaws.com/c2s-sentinel-1.jpeg)
+<img src='https://drivendata-public-assets.s3.amazonaws.com/c2s-sentinel-1.jpeg' width='600' height='270'>
 
 
 # STAC Overflow: Map Floodwater from Radar Imagery

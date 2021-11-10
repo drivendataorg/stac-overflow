@@ -1,4 +1,4 @@
-# floodwater_competition
+# Floodwater Competition
 
 ### Presentation of my model
 I use three UNET models trained on three different split of the training data and take the average of their output.

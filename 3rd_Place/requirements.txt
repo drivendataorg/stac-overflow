@@ -1,0 +1,12 @@
+pathlib
+pandas-path
+matplotlib
+numpy
+pandas
+rasterio
+random
+albumentations
+opencv
+torch
+pytorch-lightning
+segmentation-models-pytorch

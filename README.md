@@ -16,7 +16,7 @@ The goal of this challenge is to build machine learning algorithms that are able
 
 ## What's in this Repository
 
-This repository contains code from winning competitors in the [STAC Overflow: Map Floodwater from Radar Imagery](https://www.drivendata.org/competitions/81/detect-flood-water/) DrivenData challenge.
+This repository contains code from winning competitors in the [STAC Overflow: Map Floodwater from Radar Imagery](https://www.drivendata.org/competitions/81/detect-flood-water/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
@@ -30,9 +30,12 @@ Place | Team or User | Public Score | Private Score | Summary of Model
 
 Additional solution details, including tips for using subsets of the winning models, can be found in the `reports` folder inside the directory for each submission. To request access to pre-computed survey weights, please [contact us](https://www.drivendata.org/contact/).
 
+**Winners Announcement: [Meet the Winners of STAC Overflow](https://drivendata.co/blog/stac-overflow-winners/)**
+
 **Benchmark Blog Post: [How to Map Floodwater from Radar Imagery using Semantic Segmentation](https://www.drivendata.co/blog/detect-floodwater-benchmark/)**
 
 ## Competition Sponsor
+
 <p align="center">
 	<img src="https://drivendata-public-assets.s3.amazonaws.com/microsoft-logo-675x280.jpg" width="300"/>
 </p>
